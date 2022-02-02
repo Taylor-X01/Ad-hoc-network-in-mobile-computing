@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635450735548",
+    "project_id": "adhocchatapp",
+    "storage_bucket": "adhocchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635450735548:android:a48299ecd5b5aea12ec9b9",
+        "android_client_info": {
+          "package_name": "com.example.adhocnetworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635450735548-1a7mps0jje18e414db2fl4rhtm40hh0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWjmO3SzsJdIQT3S5RlQsTfTChRYMm90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635450735548-1a7mps0jje18e414db2fl4rhtm40hh0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
